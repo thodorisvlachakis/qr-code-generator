@@ -44,7 +44,7 @@ The application is built without frameworks to practice core web development con
 ---
 
 ## Project Structure
-
+```
 qr-code-generator
 │
 ├── assets
@@ -53,7 +53,7 @@ qr-code-generator
 ├── index.css
 ├── main.js
 └── README.md
-
+```
 - **assets/icons** - All the icons and the main logo are stored here
 - **index.html** – application structure
 - **index.css** – styling and layout
